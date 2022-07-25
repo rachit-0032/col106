@@ -1,0 +1,23 @@
+--Started simulation--
+0
+4
+IllegalNumberException: The entered time has already passed!
+0
+3
+false
+4
+5
+5
+true
+IllegalNumberException: The entered time has already passed!
+IllegalNumberException: The entered time has already passed!
+IllegalNumberException: The entered time has already passed!
+IllegalNumberException: The entered time has already passed!
+IllegalNumberException: The entered time has already passed!
+0
+true
+IllegalNumberException: The entered time has already passed!
+true
+--End of simulation--
+12
+IllegalNumberException: The entered ID does not exist as it did not enter the restaurant anytime!

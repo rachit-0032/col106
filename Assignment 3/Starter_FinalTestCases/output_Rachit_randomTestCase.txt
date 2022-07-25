@@ -1,0 +1,17 @@
+--Started simulation--
+IllegalNumberException: The entered time has already passed!
+6
+4
+4
+16
+6
+6
+false
+true
+--End of simulation--
+12
+22
+33
+22
+41
+26.00

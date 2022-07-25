@@ -1,0 +1,8 @@
+javac checker.java
+javac program.java
+java checker
+test passed for 5,6
+test passed for 2,-8
+test passed for 4,0
+test passed for -10,25
+test passed for -5,6

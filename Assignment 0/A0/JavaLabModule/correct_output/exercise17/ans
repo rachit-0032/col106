@@ -1,0 +1,8 @@
+javac checker.java
+javac program.java
+java checker
+test passed for {}
+test passed for {a.java,a.pdf}
+test passed for {a.java,a.java.pdf,b.java}
+test passed for {a,java.txt,cp.java,a.rm,co.dejava}
+test passed for {txt.j ava,decode.java,a.java.bin,a.java.pdf.java}

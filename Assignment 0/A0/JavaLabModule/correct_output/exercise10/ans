@@ -1,0 +1,10 @@
+javac checker.java
+javac program.java
+java checker
+test passed for 10,2
+test passed for 3,13
+test passed for 12,14
+test passed for 5,25
+test passed for 12345,89777
+test passed for 15,15
+test passed for 18,20
